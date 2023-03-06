@@ -30,16 +30,16 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Dirección
       info:
-        - idiom: English
-          level: Native
+        - idiom: Callejon del 57
+          level: 15 #407
 
-        - idiom: French
-          level: Professional
+        - idiom: Centro
+          level: 06010
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Cuauhtémoc
+          level: 
 
     interests:
       title: Interests
