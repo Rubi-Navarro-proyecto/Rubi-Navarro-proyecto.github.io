@@ -62,11 +62,11 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-Dirección:
-    title: Dirección
+
+    title: 
     info:
-      - degree: Callejon del 52 15#407
-        university: Centro
+      - degree: 
+        university: 
         time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,9 +76,9 @@ Dirección:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree:  6°D
-        university: Centro de Estudios Tecnologicos Industrial y de servicio No.32 "Jose Vasconcelos¨
-        time: Vespertino
+      - degree:  
+        university: 
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
