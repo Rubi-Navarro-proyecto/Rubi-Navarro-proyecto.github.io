@@ -145,23 +145,21 @@ projects:
         tagline: "Te permite subir repositorio de codigo para almacenarlo en el sistema de control de versiones Git."
 
 oss:
-    title: OSS Contributions
+    title: Aptitudes
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
+      - title: Gestión de proyecto
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: ""
 
-      - title: Atom
+      - title: Diseño de documentos
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: ""
 
-      - title: Delta
+      - title: Trabajo en equipo
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: ""
 
 publications:
     title: Historia Laboral
