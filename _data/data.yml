@@ -186,25 +186,25 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Plataformas
 
     toolset:
-      - name: Python & Django
+      - name: Word
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Power Point
         level: 98%
 
-      - name: Angular
+      - name: Excel
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Access
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Github
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Google Drive
         level: 60%
 
 footer: >
