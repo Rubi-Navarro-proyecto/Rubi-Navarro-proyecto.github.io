@@ -120,31 +120,29 @@ experiences:
             - Registrar bases de datos, Realizar graficas y tablas.
             - Hacer calculos matematicos, Calcular presupuesto, etc.
 projects:
-    title: Projects
+    title: Habilidades
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Se manejar la tecnologia, me gusta la computación, ¨Ofimatica¨.
     assignments:
-      - title: Velocity
+      - title: Word
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Es una herramienta donde hace tus documentos y hasta lo puedes mejorar."
 
-      - title: DevStudio
+      - title: Power Point
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Es una herramienta que funciona como presentaciones con dispositivas."
 
-      - title: Tempo
+      - title: Excel
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Es un programa que trabaja como hokas de calculo integrado en el entorno Windows y desarrollando por Microsoft."
 
-      - title: Atom
+      - title: Access
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Es una herramienta facil de usar para crear aplicaciones de negocios a partir de plantillas o desde cero."
 
-      - title: Delta
+      - title: GitHub
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Te permite subir repositorio de codigo para almacenarlo en el sistema de control de versiones Git."
 
 oss:
     title: OSS Contributions
