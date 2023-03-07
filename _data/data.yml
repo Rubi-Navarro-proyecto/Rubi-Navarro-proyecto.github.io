@@ -3,13 +3,15 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Rubi Sarai Navarro Sánchez
-    tagline: Tecnico En Ofimatica
+    name: Rubí Navarro
+    tagline: Full Stack Developer
+#    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: E120CF2C-8A37-4679-A9ED-4630DD50D247.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 
     # Sidebar links
     email: sarainavarro688@gmail.com
@@ -30,44 +32,44 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Dirección
+      title: Languages
       info:
-        - idiom: Callejon del 57 15
-          level: #407
+        - idiom: English
+          level: Native
 
-        - idiom: Centro, 06010
-          
+        - idiom: French
+          level: Professional
 
-        - idiom: Cuauhtémoc
-           
+        - idiom: Spanish
+          level: Professional
 
     interests:
-      title: Educación
+      title: Interests
       info:
-        - item: Preparatoria
+        - item: Climbing
           link:
 
-        - item: Centro de Estudio Tecnologicos Industrial y de Servicio No. 32
+        - item: Snowboarding
           link:
 
-        - item: Otro
+        - item: Cooking
           link:
 
 career-profile:
-    title: Sobre
+    title: Acerca 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Summarise your careers here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-
-    title: 
+education:
+    title: Education
     info:
-      - degree: 
-        university: 
-        time: 
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +78,9 @@ career-profile:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree:  
-        university: 
-        time: 
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
