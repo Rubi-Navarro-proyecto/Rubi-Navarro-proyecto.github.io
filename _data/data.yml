@@ -88,45 +88,37 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiencia
+    title: Experiencia 
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Word
+        time: 2021- Present
+        company: Cuidad De México
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Aprendo muy bien la computación, se usar mejor el word, 
+          hago documento adecuados. Es un proggrama de procesamiento de textos, 
+          diseñado para ayudarle a crear documentos de calidad profesional. Con las 
+          mejores herramientas de formato de documentos.
+            - Indice, margen, letras bonitas, etc.
+      - role: Power Point
+        time: 2021 - 2023
+        company: Preparatoria
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+         Se usar muy bien Power Point, es un software de ofimatica diseñado
+         para realizar presentación de diapositivas.
+         Es una herramienta cuya función principal es la de crear presentaciones
+            - Temas, Duplicar dispositivas
+            - Agregar transiciones a las diapositivas, etc.
+      - role: Excel
+        time: 2021 - 2023
+        company: CETIs N° 32
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Se manejar tambien el excel, es una herramienta muy eficaz
+          para obtener información con significado a partir de grandes 
+          cantidades de datos. Tambien funciona muy bien con calculos sencillos
+          y para realizar el seguimiento de casi cualquier tipo de información.
+          La clave para desbloquear todo este potencial es la cuadricula de las celdas.
+            - Registrar bases de datos, Realizar graficas y tablas.
+            - Hacer calculos matematicos, Calcular presupuesto, etc.
 projects:
     title: Projects
     intro: >
