@@ -46,13 +46,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Se mucho de Computación
           link:
 
-        - item: Snowboarding
+        - item: Puntual
           link:
 
-        - item: Cooking
+        - item: Responsable
           link:
 
 career-profile:
@@ -67,7 +67,7 @@ career-profile:
 education:
     title: Dirreción
     info:
-      - degree: Callejón del 57 15
+      - degree: Callejón del 57 15 407
         university: Centro 06010
         time: Cuauhtémoc
         details: |
