@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rubí Navarro
-    tagline: Full Stack Developer
+    tagline: Tecnico Ofimatico
 #    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: E120CF2C-8A37-4679-A9ED-4630DD50D247.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -32,16 +32,16 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Estudios
       info:
-        - idiom: English
-          level: Native
+        - idiom: Preparatoria
+          level: 
 
-        - idiom: French
-          level: Professional
+        - idiom: Centro de Estudio Tecnologico Industrial y de Servicio N°32
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
@@ -65,11 +65,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Dirreción
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Callejón del 57 15
+        university: Centro 06010
+        time: Cuauhtémoc
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,9 +78,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 
+        university: 
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
